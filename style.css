@@ -1,0 +1,84 @@
+body {
+    background-color: lightcoral;
+    background-image:url("wwp.jpg");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    image-rendering: auto;
+}
+
+.top-container{
+    display: flex;
+    align-items: center; /* Aligns them vertically */
+    width: 100%;
+    padding: 10px;
+}
+.left-box {
+    width: 37.5%; 
+    height: 600px;
+    background-image: url("img1.jpg");
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.right-box {
+    width: 50%; /* Smaller width */
+    background-color:rgb(246, 225, 223, 0.5);
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.right-box2 {
+    width: 37.5%; 
+    height: 600px;
+    background-image: url("img1.jpg");
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.left-box2 {
+    width: 50%; /* Smaller width */
+    background-color:rgb(246, 225, 223, 0.5);
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.left-box3 {
+    width: 37.5%; 
+    height: 600px;
+    background-image: url("img1.jpg");
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.right-box3 {
+    width: 50%; /* Smaller width */
+    background-color:rgb(246, 225, 223, 0.5);
+    padding: 20px;
+    padding-top: 30%;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+h1 {
+    color: rgb(4, 4, 4);
+    text-align: justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-color:lightpink;
+}
+
+p {
+    color: rgb(50, 48, 47);
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-size: 10%;
+    background-color: antiquewhite;
+    fill-opacity: 10px;
+}
+
+
